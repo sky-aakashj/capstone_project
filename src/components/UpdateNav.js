@@ -24,7 +24,7 @@ function UpdateNav(){
 
     return <>
 
-        <div className="container">
+        <div className="container mt-4">
             <div className="row">
                 <div className="col-12">
                 <div class="card shadow mb-5 p-5">
@@ -101,8 +101,6 @@ function UpdateNav(){
 
                         </div>
                         
-
-    
                 </div>
                 </div>
             </div>

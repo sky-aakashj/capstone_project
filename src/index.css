@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.admin-dashboard label{
+  font-size: 1.7rem;
+  font-weight: 500;
+}
+
+.admin-dashboard h3{
+  font-size: 1.3rem;
+  border: none;
+}
+
+.admin-dashboard .profitloss{
+  font-weight: 600;
+}

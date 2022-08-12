@@ -1,0 +1,599 @@
+{
+
+    "security":[
+        {
+            "security_id": 7001,
+            "security_name": "BHP Group Limited",
+            "exchange_code": "ASX",
+            "exchange_name": "Australia Exchange"
+        },
+        {
+            "security_id": 7002,
+            "security_name": "Commonwealth Bank",
+            "exchange_code": "ASX",
+            "exchange_name": "Australia Exchange"
+        },
+        {
+            "security_id": 7003,
+            "security_name": "CSL Limited",
+            "exchange_code": "ASX",
+            "exchange_name": "Australia Exchange"
+        },
+        {
+            "security_id": 7004,
+            "security_name": "National Australia Bank",
+            "exchange_code": "ASX",
+            "exchange_name": "Australia Exchange"
+        },
+        {
+            "security_id": 7005,
+            "security_name": "Westpac Banking Corp",
+            "exchange_code": "ASX",
+            "exchange_name": "Australia Exchange"
+        },
+        {
+            "security_id": 7006,
+            "security_name": "Woodside Energy Group Ltd",
+            "exchange_code": "ASX",
+            "exchange_name": "Australia Exchange"
+        },
+        {
+            "security_id": 7007,
+            "security_name": "Fortescue Metals Group",
+            "exchange_code": "ASX",
+            "exchange_name": "Australia Exchange"
+        },
+        {
+            "security_id": 7008,
+            "security_name": "Wesfarmers Limited",
+            "exchange_code": "ASX",
+            "exchange_name": "Australia Exchange"
+        },
+        {
+            "security_id": 7009,
+            "security_name": "Santos Limited",
+            "exchange_code": "ASX",
+            "exchange_name": "Australia Exchange"
+        },
+        {
+            "security_id": 7010,
+            "security_name": "Brambles Limited",
+            "exchange_code": "ASX",
+            "exchange_name": "Australia Exchange"
+        }
+    ],
+
+    "client":
+    [
+        {
+          "client_id": 1001,
+          "client_name": "Linda",
+          "password": 1001,
+          "unit": 3000,
+          "initial_unit_price": 10,
+          "investment_date": "10/08/2022",
+          "initial_investment": 30000,
+          "current_investment_value": 30000,
+          "profit_loss": 0
+        },
+        {
+          "client_id": 1002,
+          "client_name": "Angelica",
+          "password": 1002,
+          "unit": 1000,
+          "initial_unit_price": 10,
+          "investment_date": "10/08/2022",
+          "initial_investment": 10000,
+          "current_investment_value": 10000,
+          "profit_loss": 0
+        },
+        {
+          "client_id": 1003,
+          "client_name": "Hunter",
+          "password": 1003,
+          "unit": 4000,
+          "initial_unit_price": 10,
+          "investment_date": "10/08/2022",
+          "initial_investment": 40000,
+          "current_investment_value": 40000,
+          "profit_loss": 0
+        },
+        {
+          "client_id": 1004,
+          "client_name": "Kirstin",
+          "password": 1004,
+          "unit": 6000,
+          "initial_unit_price": 10,
+          "investment_date": "10/08/2022",
+          "initial_investment": 60000,
+          "current_investment_value": 60000,
+          "profit_loss": 0
+        },
+        {
+          "client_id": 1004,
+          "client_name": "Charity",
+          "password": 1004,
+          "unit": 2000,
+          "initial_unit_price": 10,
+          "investment_date": "10/08/2022",
+          "initial_investment": 20000,
+          "current_investment_value": 20000,
+          "profit_loss": 0
+        },
+        {
+          "client_id": 1006,
+          "client_name": "Jack",
+          "password": 1006,
+          "unit": 7000,
+          "initial_unit_price": 10,
+          "investment_date": "10/08/2022",
+          "initial_investment": 70000,
+          "current_investment_value": 70000,
+          "profit_loss": 0
+        },
+        {
+          "client_id": 1007,
+          "client_name": "Jessie",
+          "password": 1007,
+          "unit": 13000,
+          "initial_unit_price": 10,
+          "investment_date": "10/08/2022",
+          "initial_investment": 130000,
+          "current_investment_value": 130000,
+          "profit_loss": 0
+        },
+        {
+          "client_id": 1008,
+          "client_name": "Alonso",
+          "password": 1008,
+          "unit": 10000,
+          "initial_unit_price": 10,
+          "investment_date": "10/08/2022",
+          "initial_investment": 100000,
+          "current_investment_value": 100000,
+          "profit_loss": 0
+        },
+        {
+          "client_id": 1009,
+          "client_name": "Mick",
+          "password": 1009,
+          "unit": 4000,
+          "initial_unit_price": 10,
+          "investment_date": "10/08/2022",
+          "initial_investment": 40000,
+          "current_investment_value": 40000,
+          "profit_loss": 0
+        },
+        {
+          "client_id": 1010,
+          "client_name": "Micheal",
+          "password": 1010,
+          "unit": 2000,
+          "initial_unit_price": 10,
+          "investment_date": "10/08/2022",
+          "initial_investment": 20000,
+          "current_investment_value": 20000,
+          "profit_loss": 0
+        },
+        {
+          "client_id": 1011,
+          "client_name": "Nicole",
+          "password": 1011,
+          "unit": 3000,
+          "initial_unit_price": 10,
+          "investment_date": "10/08/2022",
+          "initial_investment": 30000,
+          "current_investment_value": 30000,
+          "profit_loss": 0
+        },
+        {
+          "client_id": 1012,
+          "client_name": "Jean",
+          "password": 1012,
+          "unit": 11000,
+          "initial_unit_price": 10,
+          "investment_date": "10/08/2022",
+          "initial_investment": 110000,
+          "current_investment_value": 110000,
+          "profit_loss": 0
+        },
+        {
+          "client_id": 1013,
+          "client_name": "Rebeca",
+          "password": 1013,
+          "unit": 14000,
+          "initial_unit_price": 10,
+          "investment_date": "10/08/2022",
+          "initial_investment": 140000,
+          "current_investment_value": 140000,
+          "profit_loss": 0
+        },
+        {
+          "client_id": 1014,
+          "client_name": "Alice",
+          "password": 1014,
+          "unit": 2000,
+          "initial_unit_price": 10,
+          "investment_date": "10/08/2022",
+          "initial_investment": 20000,
+          "current_investment_value": 20000,
+          "profit_loss": 0
+        },
+        {
+          "client_id": 1015,
+          "client_name": "Beverly",
+          "password": 1015,
+          "unit": 1000,
+          "initial_unit_price": 10,
+          "investment_date": "10/08/2022",
+          "initial_investment": 10000,
+          "current_investment_value": 10000,
+          "profit_loss": 0
+        },
+        {
+          "client_id": 1016,
+          "client_name": "Owen",
+          "password": 1016,
+          "unit": 2000,
+          "initial_unit_price": 10,
+          "investment_date": "10/08/2022",
+          "initial_investment": 20000,
+          "current_investment_value": 20000,
+          "profit_loss": 0
+        },
+        {
+          "client_id": 1017,
+          "client_name": "Victor",
+          "password": 1017,
+          "unit": 7000,
+          "initial_unit_price": 10,
+          "investment_date": "10/08/2022",
+          "initial_investment": 70000,
+          "current_investment_value": 70000,
+          "profit_loss": 0
+        },
+        {
+          "client_id": 1018,
+          "client_name": "Daisie",
+          "password": 1018,
+          "unit": 4000,
+          "initial_unit_price": 10,
+          "investment_date": "10/08/2022",
+          "initial_investment": 40000,
+          "current_investment_value": 40000,
+          "profit_loss": 0
+        },
+        {
+          "client_id": 1019,
+          "client_name": "Brittney",
+          "password": 1019,
+          "unit": 3000,
+          "initial_unit_price": 10,
+          "investment_date": "10/08/2022",
+          "initial_investment": 30000,
+          "current_investment_value": 30000,
+          "profit_loss": 0
+        },
+        {
+          "client_id": 1020,
+          "client_name": "Lynn",
+          "password": 1020,
+          "unit": 2000,
+          "initial_unit_price": 10,
+          "investment_date": "10/08/2022",
+          "initial_investment": 20000,
+          "current_investment_value": 20000,
+          "profit_loss": 0
+        }
+       ],
+
+       "daily_price":
+       [
+        {
+          "daily_price_id": 1,
+          "date": "10/08/2022",
+          "security_code": 7001,
+          "price_value": 100
+        },
+        {
+          "daily_price_id": 2,
+          "date": "10/08/2022",
+          "security_code": 7002,
+          "price_value": 50
+        },
+        {
+          "daily_price_id": 3,
+          "date": "10/08/2022",
+          "security_code": 7003,
+          "price_value": 80
+        },
+        {
+          "daily_price_id": 4,
+          "date": "10/08/2022",
+          "security_code": 7004,
+          "price_value": 120
+        },
+        {
+          "daily_price_id": 5,
+          "date": "10/08/2022",
+          "security_code": 7005,
+          "price_value": 200
+        },
+        {
+          "daily_price_id": 6,
+          "date": "10/08/2022",
+          "security_code": 7006,
+          "price_value": 110
+        },
+        {
+          "daily_price_id": 7,
+          "date": "10/08/2022",
+          "security_code": 7007,
+          "price_value": 60
+        },
+        {
+          "daily_price_id": 8,
+          "date": "10/08/2022",
+          "security_code": 7008,
+          "price_value": 70
+        },
+        {
+          "daily_price_id": 9,
+          "date": "10/08/2022",
+          "security_code": 7009,
+          "price_value": 115
+        },
+        {
+          "daily_price_id": 10,
+          "date": "10/08/2022",
+          "security_code": 7010,
+          "price_value": 180
+        },
+        {
+          "daily_price_id": 11,
+          "date": "11/08/2022",
+          "security_code": 7001,
+          "price_value": 105
+        },
+        {
+          "daily_price_id": 12,
+          "date": "11/08/2022",
+          "security_code": 7002,
+          "price_value": 60
+        },
+        {
+          "daily_price_id": 13,
+          "date": "11/08/2022",
+          "security_code": 7003,
+          "price_value": 79
+        },
+        {
+          "daily_price_id": 14,
+          "date": "11/08/2022",
+          "security_code": 7004,
+          "price_value": 122
+        },
+        {
+          "daily_price_id": 15,
+          "date": "11/08/2022",
+          "security_code": 7005,
+          "price_value": 205
+        },
+        {
+          "daily_price_id": 16,
+          "date": "11/08/2022",
+          "security_code": 7006,
+          "price_value": 111
+        },
+        {
+          "daily_price_id": 17,
+          "date": "11/08/2022",
+          "security_code": 7007,
+          "price_value": 55
+        },
+        {
+          "daily_price_id": 18,
+          "date": "11/08/2022",
+          "security_code": 7008,
+          "price_value": 75
+        },
+        {
+          "daily_price_id": 19,
+          "date": "11/08/2022",
+          "security_code": 7009,
+          "price_value": 116
+        },
+        {
+          "daily_price_id": 20,
+          "date": "11/08/2022",
+          "security_code": 7010,
+          "price_value": 170
+        },
+        {
+          "daily_price_id": 21,
+          "date": "12/08/2022",
+          "security_code": 7001,
+          "price_value": 108
+        },
+        {
+          "daily_price_id": 22,
+          "date": "12/08/2022",
+          "security_code": 7002,
+          "price_value": 52
+        },
+        {
+          "daily_price_id": 23,
+          "date": "12/08/2022",
+          "security_code": 7003,
+          "price_value": 84
+        },
+        {
+          "daily_price_id": 24,
+          "date": "12/08/2022",
+          "security_code": 7004,
+          "price_value": 100
+        },
+        {
+          "daily_price_id": 25,
+          "date": "12/08/2022",
+          "security_code": 7005,
+          "price_value": 199
+        },
+        {
+          "daily_price_id": 26,
+          "date": "12/08/2022",
+          "security_code": 7006,
+          "price_value": 111
+        },
+        {
+          "daily_price_id": 27,
+          "date": "12/08/2022",
+          "security_code": 7007,
+          "price_value": 55
+        },
+        {
+          "daily_price_id": 28,
+          "date": "12/08/2022",
+          "security_code": 7008,
+          "price_value": 74
+        },
+        {
+          "daily_price_id": 29,
+          "date": "12/08/2022",
+          "security_code": 7009,
+          "price_value": 117
+        },
+        {
+          "daily_price_id": 30,
+          "date": "12/08/2022",
+          "security_code": 7010,
+          "price_value": 184
+        },
+        {
+          "daily_price_id": 31,
+          "date": "13/08/2022",
+          "security_code": 7001,
+          "price_value": 101
+        },
+        {
+          "daily_price_id": 32,
+          "date": "13/08/2022",
+          "security_code": 7002,
+          "price_value": 48
+        },
+        {
+          "daily_price_id": 33,
+          "date": "13/08/2022",
+          "security_code": 7003,
+          "price_value": 86
+        },
+        {
+          "daily_price_id": 34,
+          "date": "13/08/2022",
+          "security_code": 7004,
+          "price_value": 122
+        },
+        {
+          "daily_price_id": 35,
+          "date": "13/08/2022",
+          "security_code": 7005,
+          "price_value": 203
+        },
+        {
+          "daily_price_id": 36,
+          "date": "13/08/2022",
+          "security_code": 7006,
+          "price_value": 109
+        },
+        {
+          "daily_price_id": 37,
+          "date": "13/08/2022",
+          "security_code": 7007,
+          "price_value": 59
+        },
+        {
+          "daily_price_id": 38,
+          "date": "13/08/2022",
+          "security_code": 7008,
+          "price_value": 77
+        },
+        {
+          "daily_price_id": 39,
+          "date": "13/08/2022",
+          "security_code": 7009,
+          "price_value": 120
+        },
+        {
+          "daily_price_id": 40,
+          "date": "13/08/2022",
+          "security_code": 7010,
+          "price_value": 190
+        },
+        {
+          "daily_price_id": 41,
+          "date": "14/08/2022",
+          "security_code": 7001,
+          "price_value": 110
+        },
+        {
+          "daily_price_id": 42,
+          "date": "14/08/2022",
+          "security_code": 7002,
+          "price_value": 60
+        },
+        {
+          "daily_price_id": 43,
+          "date": "14/08/2022",
+          "security_code": 7003,
+          "price_value": 90
+        },
+        {
+          "daily_price_id": 44,
+          "date": "14/08/2022",
+          "security_code": 7004,
+          "price_value": 130
+        },
+        {
+          "daily_price_id": 45,
+          "date": "14/08/2022",
+          "security_code": 7005,
+          "price_value": 190
+        },
+        {
+          "daily_price_id": 46,
+          "date": "14/08/2022",
+          "security_code": 7006,
+          "price_value": 104
+        },
+        {
+          "daily_price_id": 47,
+          "date": "14/08/2022",
+          "security_code": 7007,
+          "price_value": 65
+        },
+        {
+          "daily_price_id": 48,
+          "date": "14/08/2022",
+          "security_code": 7008,
+          "price_value": 69
+        },
+        {
+          "daily_price_id": 49,
+          "date": "14/08/2022",
+          "security_code": 7009,
+          "price_value": 116
+        },
+        {
+          "daily_price_id": 50,
+          "date": "14/08/2022",
+          "security_code": 7010,
+          "price_value": 183
+        }
+       ]
+
+
+
+
+
+
+}
