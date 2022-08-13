@@ -589,6 +589,108 @@
           "security_code": 7010,
           "price_value": 183
         }
+       ],
+       "fund_holding":[
+        {
+          "security_id": 7001,
+          "Date": "10/08/2022",
+          "No_of_Shares": 1000,
+          "Initial_investment": 100000,
+          "Current_Investment": 110000,
+          "Profit": {
+             "Loss": 10000
+          }
+       },
+        {
+          "security_id": 7002,
+          "Date": "10/08/2022",
+          "No_of_Shares": 1600,
+          "Initial_investment": 80000,
+          "Current_Investment": 96000,
+          "Profit": {
+             "Loss": 16000
+          }
+       },
+        {
+          "security_id": 7003,
+          "Date": "10/08/2022",
+          "No_of_Shares": 875,
+          "Initial_investment": 70000,
+          "Current_Investment": 78750,
+          "Profit": {
+             "Loss": 8750
+          }
+       },
+        {
+          "Security_id": 7004,
+          "Date": "10/08/2022",
+          "No_of_Shares": 917,
+          "Initial_investment": 110000,
+          "Current_Investment": 119210,
+          "Profit": {
+             "Loss": 9210
+          }
+       },
+        {
+          "Security_id": 7005,
+          "Date": "10/08/2022",
+          "No_of_Shares": 425,
+          "Initial_investment": 85000,
+          "Current_Investment": 80750,
+          "Profit": {
+             "Loss": -4250
+          }
+       },
+        {
+          "Security_id": 7006,
+          "Date": "10/08/2022",
+          "No_of_Shares": 818,
+          "Initial_investment": 90000,
+          "Current_Investment": 85072,
+          "Profit": {
+             "Loss": -4298
+          }
+       },
+        {
+          "Security_id": 7007,
+          "Date": "10/08/2022",
+          "No_of_Shares": 1583,
+          "Initial_investment": 95000,
+          "Current_Investment": 102895,
+          "Profit": {
+             "Loss": 7895
+          }
+       },
+        {
+          "Security_id": 7008,
+          "Date": "10/08/2022",
+          "No_of_Shares": 1714,
+          "Initial_investment": 120000,
+          "Current_Investment": 118266,
+          "Profit": {
+             "Loss": -1134
+          }
+       },
+        {
+          "Security_id": 7009,
+          "Date": "10/08/2022",
+          "No_of_Shares": 695,
+          "Initial_investment": 80000,
+          "Current_Investment": 80620,
+          "Profit": {
+             "Loss": 620
+          }
+       },
+        {
+          "Security_id": 7010,
+          "Date": "10/08/2022",
+          "No_of_Shares": 944,
+          "Initial_investment": 170000,
+          "Current_Investment": 172752,
+          "Profit": {
+             "Loss": 2752
+          }
+       }
        ]
 
 
